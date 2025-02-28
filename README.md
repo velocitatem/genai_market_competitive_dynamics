@@ -1,6 +1,6 @@
 # LLM Competitive Dynamics Analysis
 
-![Top Industry Leaders](leaders.png)
+![Top Industry Leaders](./leaders.png)
 
 ## Project Overview
 
@@ -34,7 +34,7 @@ This project analyzes the competitive dynamics between AI companies in the Large
 
 ### Company Dynamics
 
-- **Major Leaders**: 
+- **Major Leaders**:
   - OpenAI triggered 19 competitive responses, with Anthropic and Meta being the most frequent responders
   - Anthropic triggered 16 responses, primarily from Meta and Google
   - Google triggered 13 responses, especially from Microsoft
@@ -45,7 +45,7 @@ This project analyzes the competitive dynamics between AI companies in the Large
   - Databricks averages 26 days response time
   - Mistral AI averages 27 days response time
 
-- **Strategic Followers**: 
+- **Strategic Followers**:
   - Several companies show focused following patterns, responding primarily to specific leaders
   - Bloomberg follows Google (40% of responses)
   - Cohere follows OpenAI and Google DeepMind (29% each)
