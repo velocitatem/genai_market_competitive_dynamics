@@ -1,0 +1,49 @@
+Date,Company,Model Name
+2023-03-14,Anthropic,Claude
+2023-03-21,Google,Bard (LaMDA)
+2023-03-27,Microsoft,Kosmos-1
+2023-03-30,Bloomberg,BloombergGPT
+2023-04-13,Amazon,Titan LLMs
+2023-05-10,Google,PaLM 2
+2023-06-01,Microsoft,phi-1
+2023-07-01,Anthropic,Claude 2
+2023-07-18,Meta,Llama 2 70B
+2023-09-06,TII,Falcon 180B
+2023-10-01,Baidu,ERNIE 4.0
+2023-11-01,xAI,Grok-1
+2023-12-06,Google DeepMind,Gemini
+2024-02-15,OpenAI,Sora
+2024-02-21,Google DeepMind,Gemma
+2024-03-11,Cohere,Command R 35B
+2024-03-17,xAI,Grok-1 314B MoE
+2024-03-27,Databricks,DBRX 132B MoE
+2024-03-29,AI21 Labs,Jamba 52B
+2024-04-04,Cohere,Command R Plus 104B
+2024-04-10,Mistral AI,Mixtral 8x22B
+2024-04-23,Microsoft,Phi-3
+2024-05-13,OpenAI,GPT-4o
+2024-06-14,NVIDIA,Nemotron-4-340B
+2024-06-20,Anthropic,Claude 3.5 Sonnet
+2024-07-01,Meta,Llama 3.1 405B
+2024-08-01,xAI,Grok-2
+2024-09-01,OpenAI,o1
+2024-10-01,Anthropic,Claude with Computer Use
+2024-12-01,Amazon,Nova
+2025-01-20,DeepSeek-AI,DeepSeek R1
+2025-02-01,xAI,Grok-3
+2025-02-01,Microsoft,Phi-4 Multimodal
+2020-02-24,Microsoft,Turing-NLG
+2020-05-28,OpenAI,GPT-3
+2021-01-11,Google,T5-XXL
+2021-06-30,Microsoft/NVIDIA,Megatron-Turing NLG
+2021-09-13,AI21 Labs,Jurassic-1
+2021-11-01,DeepMind,Gato
+2022-01-05,Google,LaMDA
+2022-03-15,Meta,OPT-175B
+2022-05-20,Tsinghua Univ,GLM-130B
+2022-11-15,OpenAI,GPT-3.5 (text-davinci)
+2022-11-30,Anthropic,Claude v1
+2022-12-01,Meta,Galactica
+2022-12-15,OpenAI,ChatGPT (GPT-3.5-turbo)
+2023-01-27,Google,PaLM
+2023-02-24,Meta,LLaMA-65B
